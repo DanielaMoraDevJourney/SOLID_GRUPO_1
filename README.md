@@ -30,6 +30,12 @@ Este proyecto aborda el **Principio de Segregación de Interfaces**, que estable
 Aquí se muestra cómo dividir interfaces grandes en más específicas para mejorar la flexibilidad y reducir dependencias innecesarias.  
 
 📸 Este proyecto incluye una imagen explicativa dentro de la carpeta.
+
+### `DIP_g1` – Dependency Inversion Principle (DIP)
+Este proyecto implementa el **Principio de Inversión de Dependencias**, que establece que los módulos de alto nivel no deben depender de módulos de bajo nivel, sino de abstracciones.  
+Aquí se muestra cómo desacoplar dependencias mediante interfaces y principios de inversión para lograr un diseño más flexible y mantenible.  
+
+📸 Este proyecto incluye una imagen explicativa dentro de la carpeta.
 ---
 
 ## 🚀 Cómo ejecutar cada proyecto
