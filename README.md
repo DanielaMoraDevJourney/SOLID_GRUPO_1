@@ -1,3 +1,8 @@
+# Integrantes:
+- Daniela Mora
+- Francisco Sanchez
+- Priscila Zúñiga
+- Juliana Sosa
 # 🧠 Proyectos SOLID - Grupo 1
 
 Este repositorio contiene ejercicios prácticos relacionados con los principios SOLID de diseño orientado a objetos. Cada carpeta representa un principio específico, implementado y explicado con ejemplos en Java.
