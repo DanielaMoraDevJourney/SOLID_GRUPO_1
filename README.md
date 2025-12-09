@@ -24,11 +24,12 @@ Este proyecto implementa el **Principio de Sustitución de Liskov**, que indica 
 ### `ogp_g1` – Open/Closed Principle (OCP)
 Aunque el nombre de la carpeta es `ogp_g1`, este proyecto representa el **Principio Abierto/Cerrado (Open/Closed Principle)**. Las clases deben estar **abiertas para extensión** pero **cerradas para modificación**. Aquí se muestra cómo lograrlo usando herencia y polimorfismo.
 
-### `liskov_g1` – Liskov Substitution Principle (LSP)
-Este proyecto implementa el **Principio de Sustitución de Liskov**, que indica que los objetos de una clase derivada deben poder sustituir a los de su clase base sin alterar el comportamiento del programa.  
-📸 Este proyecto incluye una imagen explicativa dentro de la carpeta.
-📸 Este proyecto incluye una imagen explicativa dentro de la carpeta.
 
+### `ISP_g1` – Interface Segregation Principle (ISP)
+Este proyecto aborda el **Principio de Segregación de Interfaces**, que establece que los clientes no deben verse obligados a depender de interfaces que no utilizan.  
+Aquí se muestra cómo dividir interfaces grandes en más específicas para mejorar la flexibilidad y reducir dependencias innecesarias.  
+
+📸 Este proyecto incluye una imagen explicativa dentro de la carpeta.
 ---
 
 ## 🚀 Cómo ejecutar cada proyecto
